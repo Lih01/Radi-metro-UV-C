@@ -24,7 +24,7 @@ const int LED = 2;
 const char* ssid = "SUA_REDE_WIFI";   // Nome da Rede WiFi
 const char* password = "SUA_SENHA";   // Senha do WiFi
 const char* server = "api.thingspeak.com";  // Servidor do ThingSpeak
-const String apiKey = "SUA_API_KEY";  //API Key do ThingSpeak (substitua pelo seu)
+const String apiKey = "9XNAR3P4H65UUXO2";  //API Key do ThingSpeak (substitua pelo seu)
 
 // Configuração do BLE
 #define SERVICE_UUID           "6E400001-B5A3-F393-E0A9-E50E24DCCA9E"
